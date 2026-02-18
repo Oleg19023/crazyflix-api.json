@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/Oleg19023/crazyflix-api.json@main/crazyflix-api.json
