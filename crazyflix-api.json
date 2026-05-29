@@ -8078,7 +8078,8 @@
     "trailerUrl": "https://www.youtube.com/embed/OQw7hu5OebY?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "galleryUrls": [],
     "isFavorite": false,
-    "mediaUrl": "https://rezka.ag/cartoons/adventures/81026-pryguny-2026.html"
+    "mediaUrl": "https://rezka.ag/cartoons/adventures/81026-pryguny-2026.html",
+    "ageRating": 6
   },
   {
     "id": "2026-01-27T17:42:12.564Z",
@@ -13176,7 +13177,8 @@
     "galleryUrls": [],
     "isFavorite": false,
     "type": "MOVIE",
-    "id": "2026-01-30T14:07:06.923Z"
+    "id": "2026-01-30T14:07:06.923Z",
+    "ageRating": 18
   },
   {
     "title": "Гринч",
@@ -28745,7 +28747,8 @@
     "durationMinutes": 156,
     "isFavorite": false,
     "type": "MOVIE",
-    "id": "2026-03-19T21:26:43.548Z"
+    "id": "2026-03-19T21:26:43.548Z",
+    "ageRating": 12
   },
   {
     "title": "Дюна: Часть третья",
@@ -30180,7 +30183,8 @@
     "galleryUrls": [],
     "isFavorite": false,
     "type": "MOVIE",
-    "id": "2026-04-12T20:15:50.726Z"
+    "id": "2026-04-12T20:15:50.726Z",
+    "ageRating": 18
   },
   {
     "title": "На краю Оук-стрит",
@@ -31614,7 +31618,8 @@
     "galleryUrls": [],
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-04-26T23:02:44.205Z"
+    "id": "2026-04-26T23:02:44.205Z",
+    "ageRating": 16
   },
   {
     "title": "Йеллоустоун: Маршалы",
@@ -31665,7 +31670,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2026/3/6/j2436a1c029cbhh40d73h.jpg",
     "rating": 7.6,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2026,
     "trailerUrl": "https://www.youtube.com/embed/y4ZBSzYUTL0?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/87375-dinozavry-2026.html",
@@ -32128,7 +32135,7 @@
       "Ужасы"
     ],
     "year": 2011,
-    "trailerUrl": "",
+    "trailerUrl": "-Нету",
     "mediaUrl": "https://rezka.ag/series/thriller/7020-hodyachie-mertvecy-mini-serial-2011.html",
     "galleryUrls": [],
     "durationMinutes": 5,
@@ -32529,7 +32536,7 @@
       "Короткометражка"
     ],
     "year": 2024,
-    "trailerUrl": "",
+    "trailerUrl": "-Нету",
     "mediaUrl": "https://rezka.ag/films/documentary/67717-hodyachie-mertvecy-vozvraschenie-2024.html",
     "galleryUrls": [],
     "durationMinutes": 41,
@@ -37691,7 +37698,7 @@
       "Приключения"
     ],
     "year": 2012,
-    "trailerUrl": "",
+    "trailerUrl": "-Нету",
     "mediaUrl": "https://rezka.ag/animation/drama/2890-berserk-zolotoy-vek-film-ii-bitva-za-doldrey-2012.html",
     "galleryUrls": [],
     "durationMinutes": 92,
@@ -37756,7 +37763,7 @@
       "Приключения"
     ],
     "year": 2012,
-    "trailerUrl": "",
+    "trailerUrl": "-Нету",
     "mediaUrl": "https://rezka.ag/animation/drama/3556-berserk-zolotoy-vek-film-i-beherit-vlastitelya-2012.html",
     "galleryUrls": [],
     "durationMinutes": 77,
@@ -38194,7 +38201,7 @@
       "Короткометражка"
     ],
     "year": 2005,
-    "trailerUrl": "",
+    "trailerUrl": "-Нету",
     "mediaUrl": "https://rezka.ag/cartoons/comedy/18207-dzhek-dzhek-atakuet-2005.html",
     "galleryUrls": [],
     "durationMinutes": 5,
