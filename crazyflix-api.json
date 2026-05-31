@@ -6537,7 +6537,8 @@
     "durationMinutes": 23,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/animation/comedy/80710-lyubov-s-igolochki-2025.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 12
   },
   {
     "id": "2026-01-22T20:54:48.845Z",
@@ -7170,7 +7171,8 @@
     "durationMinutes": 42,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/fantasy/82709-rycar-semi-korolevstv-2026.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 6
   },
   {
     "id": "2026-01-27T17:20:26.668Z",
@@ -7366,7 +7368,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/79994-dekster-voskreshenie-2025-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 10
   },
   {
     "id": "2026-01-27T17:26:48.209Z",
@@ -8212,7 +8215,8 @@
     "durationMinutes": 25,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/animation/adventures/85821-rebenok-aydola-2026.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 11
   },
   {
     "title": "Атака титанов [ТВ-1] / Вторжение гигантов [ТВ-1]",
@@ -8543,7 +8547,8 @@
     "type": "ANIME",
     "id": "2026-01-27T20:12:48.875Z",
     "mediaUrl": "https://rezka.ag/animation/fantasy/85602-magicheskaya-bitva-smertelnaya-migraciya-tv-3-2026.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 12
   },
   {
     "title": "Адский рай [ТВ-1]",
@@ -8591,7 +8596,8 @@
     "type": "ANIME",
     "id": "2026-01-27T20:13:17.972Z",
     "mediaUrl": "https://rezka.ag/animation/fantasy/85716-adskiy-ray-tv-2-2026.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 12
   },
   {
     "title": "Истребитель демонов [ТВ-1] / Клинок, рассекающий демонов [ТВ-1]",
@@ -8743,7 +8749,8 @@
     "type": "ANIME",
     "id": "2026-01-27T20:14:57.286Z",
     "mediaUrl": "https://rezka.ag/animation/adventures/85477-istrebitel-demonov-beskonechnaya-krepost-2025.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 1
   },
   {
     "title": "Семья шпиона [ТВ-1]",
@@ -8843,7 +8850,8 @@
     "type": "ANIME",
     "id": "2026-01-27T20:15:33.563Z",
     "mediaUrl": "https://rezka.ag/animation/adventures/82591-semya-shpiona-tv-3-2025.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 13
   },
   {
     "title": "Человек-бензопила",
@@ -8894,7 +8902,8 @@
     "type": "ANIME",
     "id": "2026-01-27T20:15:49.101Z",
     "mediaUrl": "https://rezka.ag/animation/fantasy/82137-chelovek-benzopila-film-istoriya-reze-2025-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 1
   },
   {
     "title": "Наруто [ТВ-1]",
@@ -14137,7 +14146,8 @@
     "durationMinutes": 25,
     "isFavorite": false,
     "type": "ANIME",
-    "id": "2026-01-30T14:19:52.750Z"
+    "id": "2026-01-30T14:19:52.750Z",
+    "episodes": 13
   },
   {
     "title": "Магия и мускулы [ТВ-1]",
@@ -17131,7 +17141,8 @@
     "isFavorite": false,
     "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-01-30T15:15:20.033Z"
+    "id": "2026-01-30T15:15:20.033Z",
+    "episodes": 10
   },
   {
     "title": "Доктор Стоун [ТВ-1]",
@@ -24794,7 +24805,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-07T01:00:52.202Z"
+    "id": "2026-02-07T01:00:52.202Z",
+    "episodes": 8
   },
   {
     "title": "Декамерон",
@@ -25258,7 +25270,8 @@
     "durationMinutes": 23,
     "isFavorite": false,
     "type": "ANIME",
-    "id": "2026-02-18T01:34:23.516Z"
+    "id": "2026-02-18T01:34:23.516Z",
+    "episodes": 12
   },
   {
     "title": "Красота",
@@ -25279,7 +25292,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:34:23.534Z"
+    "id": "2026-02-18T01:34:23.534Z",
+    "episodes": 11
   },
   {
     "title": "Резервация",
@@ -25300,7 +25314,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:34:23.542Z"
+    "id": "2026-02-18T01:34:23.542Z",
+    "episodes": 8
   },
   {
     "title": "Террорист",
@@ -25321,7 +25336,8 @@
     "durationMinutes": 27,
     "isFavorite": false,
     "type": "ANIME",
-    "id": "2026-02-18T01:34:23.548Z"
+    "id": "2026-02-18T01:34:23.548Z",
+    "episodes": 8
   },
   {
     "title": "Агент времени. Глава Инду. Фильм",
@@ -29680,7 +29696,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-12T15:14:24.320Z"
+    "id": "2026-04-12T15:14:24.320Z",
+    "episodes": 8
   },
   {
     "title": "Грязные деньги",
@@ -30226,7 +30243,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-12T20:15:50.737Z"
+    "id": "2026-04-12T20:15:50.737Z",
+    "episodes": 20
   },
   {
     "title": "Люди в черном 3",
@@ -31593,7 +31611,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:44.199Z"
+    "id": "2026-04-26T23:02:44.199Z",
+    "episodes": 8
   },
   {
     "title": "Паук-Нуар",
@@ -31619,7 +31638,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "id": "2026-04-26T23:02:44.205Z",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 8
   },
   {
     "title": "Йеллоустоун: Маршалы",
@@ -31640,7 +31660,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:44.211Z"
+    "id": "2026-04-26T23:02:44.211Z",
+    "episodes": 13
   },
   {
     "title": "Река Мадисон",
@@ -31661,7 +31682,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:44.217Z"
+    "id": "2026-04-26T23:02:44.217Z",
+    "episodes": 6
   },
   {
     "title": "Динозавры",
@@ -31680,7 +31702,8 @@
     "durationMinutes": 46,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-04-26T23:02:44.224Z"
+    "id": "2026-04-26T23:02:44.224Z",
+    "episodes": 4
   },
   {
     "title": "На вершине / Вершина",
@@ -31851,7 +31874,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-26T23:02:44.265Z"
+    "id": "2026-04-26T23:02:44.265Z",
+    "episodes": 8
   },
   {
     "title": "Ворота",
@@ -34176,7 +34200,8 @@
     "isFavorite": false,
     "type": "ANIME",
     "ageRating": 18,
-    "id": "2026-05-10T21:11:57.050Z"
+    "id": "2026-05-10T21:11:57.050Z",
+    "episodes": 12
   },
   {
     "title": "Очень страшное кино 6",
@@ -37414,7 +37439,8 @@
     "durationMinutes": 45,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-29T18:55:38.315Z"
+    "id": "2026-05-29T18:55:38.315Z",
+    "episodes": 6
   },
   {
     "title": "Универ. 15 лет спустя",
@@ -37434,7 +37460,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.325Z"
+    "id": "2026-05-29T18:55:38.325Z",
+    "episodes": 12
   },
   {
     "title": "Киллер на всю голову / Вражеский захват",
@@ -37497,7 +37524,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.349Z"
+    "id": "2026-05-29T18:55:38.349Z",
+    "episodes": 15
   },
   {
     "title": "Домовенок Кузя 2",
