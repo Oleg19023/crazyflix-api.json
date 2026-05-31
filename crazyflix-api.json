@@ -1528,7 +1528,8 @@
     "durationMinutes": 34,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/29593-ueyn-2019.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 10
   },
   {
     "id": "2026-01-17T23:34:04.471Z",
@@ -1721,7 +1722,8 @@
     "galleryUrls": [],
     "durationMinutes": 60,
     "isFavorite": false,
-    "mediaUrl": "https://rezka.ag/series/fiction/47901-chelovek-kotoryy-upal-na-zemlyu-2022.html"
+    "mediaUrl": "https://rezka.ag/series/fiction/47901-chelovek-kotoryy-upal-na-zemlyu-2022.html",
+    "episodes": 10
   },
   {
     "id": "2026-01-17T23:46:38.933Z",
@@ -1835,7 +1837,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/36165-ivanko-2020.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 38
   },
   {
     "id": "2026-01-17T23:55:35.732Z",
@@ -1862,7 +1865,8 @@
     "durationMinutes": 15,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/cartoons/fiction/30299-lyubov-smert-i-roboty-2019-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 45
   },
   {
     "id": "2026-01-17T23:56:24.184Z",
@@ -1945,7 +1949,8 @@
     "durationMinutes": 25,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/47895-zdravstvuyte-vam-pora-2022.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 20
   },
   {
     "id": "2026-01-18T00:06:49.935Z",
@@ -1969,7 +1974,8 @@
     "durationMinutes": 58,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/11678-obratnaya-storona-luny-2012.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 16
   },
   {
     "id": "2026-01-18T00:07:06.937Z",
@@ -1990,7 +1996,8 @@
     "galleryUrls": [],
     "durationMinutes": 45,
     "isFavorite": false,
-    "mediaUrl": "https://rezka.ag/series/drama/17106-obratnaya-storona-luny-2-2016.html"
+    "mediaUrl": "https://rezka.ag/series/drama/17106-obratnaya-storona-luny-2-2016.html",
+    "episodes": 16
   },
   {
     "id": "2026-01-18T00:08:10.988Z",
@@ -2054,7 +2061,8 @@
     "durationMinutes": 41,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/25742-horoshiy-doktor-2017.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 126
   },
   {
     "id": "2026-01-18T00:12:16.121Z",
@@ -2186,7 +2194,8 @@
     "durationMinutes": 56,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/30751-chernobyll-2019.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 5
   },
   {
     "id": "2026-01-20T22:01:31.188Z",
@@ -2207,7 +2216,8 @@
     "durationMinutes": 48,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/2191-chernobyl-zona-otchuzhdeniya-2014.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 16
   },
   {
     "id": "2026-01-20T22:02:46.186Z",
@@ -2794,7 +2804,8 @@
     "durationMinutes": 46,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/adventures/61900-lada-gold-2023.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 8
   },
   {
     "id": "2026-01-20T23:29:55.174Z",
@@ -3394,7 +3405,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/fiction/64703-follaut-2024-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 16
   },
   {
     "id": "2026-01-21T19:11:31.400Z",
@@ -3459,7 +3471,8 @@
     "durationMinutes": 32,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/34237-zagruzka-2020.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 29
   },
   {
     "id": "2026-01-21T19:13:14.462Z",
@@ -3684,7 +3697,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/70712-the-8-show-vyzhivi-i-razbogatey-2024.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 8
   },
   {
     "id": "2026-01-21T19:21:00.679Z",
@@ -3929,7 +3943,8 @@
     "durationMinutes": 40,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/65514-tretiy-lishniy-2024.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 15
   },
   {
     "id": "2026-01-21T19:24:44.741Z",
@@ -4294,7 +4309,8 @@
     "durationMinutes": 55,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/41647-igra-v-kalmara-2021-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 22
   },
   {
     "id": "2026-01-21T19:36:55.373Z",
@@ -5177,7 +5193,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/73079-grotesk-2024.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 10
   },
   {
     "id": "2026-01-22T19:44:57.699Z",
@@ -5435,7 +5452,8 @@
     "durationMinutes": 20,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/55280-durdom-2023.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 21
   },
   {
     "id": "2026-01-22T20:06:06.349Z",
@@ -5481,7 +5499,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/30464-sumerechnaya-zona-2019.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 20
   },
   {
     "id": "2026-01-22T20:11:31.533Z",
@@ -5604,7 +5623,8 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "mediaUrl": "https://rezka.ag/series/comedy/65875-prishelec-2020.html"
+    "mediaUrl": "https://rezka.ag/series/comedy/65875-prishelec-2020.html",
+    "episodes": 30
   },
   {
     "id": "2026-01-22T20:21:42.642Z",
@@ -5759,7 +5779,8 @@
     "galleryUrls": [],
     "durationMinutes": 90,
     "isFavorite": false,
-    "mediaUrl": "https://rezka.ag/series/action/60319-kontinental-2023-latest.html"
+    "mediaUrl": "https://rezka.ag/series/action/60319-kontinental-2023-latest.html",
+    "episodes": 3
   },
   {
     "id": "2026-01-22T20:24:34.831Z",
@@ -5803,7 +5824,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/37627-chikatilo-2021.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 18
   },
   {
     "id": "2026-01-22T20:27:16.412Z",
@@ -5826,7 +5848,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/69085-ten-chikatilo-2024.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 8
   },
   {
     "id": "2026-01-22T20:27:46.168Z",
@@ -5849,7 +5872,8 @@
     "durationMinutes": 44,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/horror/10831-boytes-hodyachih-mertvecov-2015.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 115
   },
   {
     "id": "2026-01-22T20:28:40.316Z",
@@ -5870,7 +5894,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/31791-golyak-2019-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 50
   },
   {
     "id": "2026-01-22T20:30:06.195Z",
@@ -5895,7 +5920,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/action/25024-krovavaya-ezda-2017.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 13
   },
   {
     "id": "2026-01-22T20:30:38.918Z",
@@ -5916,7 +5942,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/28704-novobranec-2018-latest.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 144
   },
   {
     "id": "2026-01-22T20:30:59.076Z",
@@ -5938,7 +5965,8 @@
     "durationMinutes": 58,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/49866-chernaya-ptica-2022.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 6
   },
   {
     "id": "2026-01-22T20:31:47.984Z",
@@ -5960,7 +5988,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/horror/233-american-istoriya-uzhasov-horror-2011.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 132
   },
   {
     "id": "2026-01-22T20:31:53.835Z",
@@ -5982,7 +6011,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/40532-amerikanskie-istorii-uzhasov-2021.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 24
   },
   {
     "id": "2026-01-22T20:32:54.688Z",
@@ -6005,7 +6035,8 @@
     "durationMinutes": 49,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/fiction/25074-orvill-2017.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 36
   },
   {
     "id": "2026-01-22T20:33:08.962Z",
@@ -6025,7 +6056,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/11310-mediki-chikago-2015.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 43
   },
   {
     "id": "2026-01-22T20:33:40.865Z",
@@ -6047,7 +6079,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/28351-telohranitel-2018.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 6
   },
   {
     "id": "2026-01-22T20:33:55.801Z",
@@ -6069,7 +6102,8 @@
     "durationMinutes": 53,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/detective/10998-nyuhach-2013-latest.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 32
   },
   {
     "id": "2026-01-22T20:35:02.359Z",
@@ -6160,7 +6194,8 @@
     "durationMinutes": 90,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/47-sherlok-2010.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 13
   },
   {
     "id": "2026-01-22T20:38:23.679Z",
@@ -6227,7 +6262,8 @@
     "durationMinutes": 52,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/23212-metod-2015.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 16
   },
   {
     "id": "2026-01-22T20:40:01.691Z",
@@ -6544,7 +6580,7 @@
     "id": "2026-01-22T20:54:48.845Z",
     "title": "Тетрадь смерти",
     "originalTitle": "Desu nôto / Death Note",
-    "type": "SERIES",
+    "type": "ANIME",
     "description": "В основу сюжета фэнтезийного аниме сериала «Тетрадь смерти» легли культовые японские комиксы, так называемая манга, написанная известным японским писателем Цугуми Оба. Мультсериал повествует историю о некой странной тетради, обладающей магическими свойствами, и являющейся таким себе идеальным оружием. Согласно легенде, если написать на ней имя человека и указать его приметы, то в скором времени его непременно настигнет смерть. Однажды эта ужасная тетрадь оказывается в руках самого обычного школьника Лайта Ягами. Отец мальчишки большую часть своей жизни посвятил работе в полиции, пытаясь очистить общество от преступности. Но как бы он не старался это сделать, мир вокруг становился только хуже. Заветная мечта Лайта пойти по стопам своего отца. И вот когда в его руках оказывается такое мощное оружие как тетрадь смерти, он начинает вершить свое собственное правосудие, даже не думая к каким серьезным последствиям это может привести…",
     "posterUrl": "https://static.hdrezka.ac/i/2014/7/1/m2452f445ecd6ds39e76g.jpg",
     "rating": 8.9,
@@ -6559,7 +6595,9 @@
     "durationMinutes": 22,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/animation/detective/1765-tetrad-smerti-2006.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 37,
+    "isSerial": true
   },
   {
     "id": "2026-01-27T17:05:09.245Z",
@@ -6581,7 +6619,8 @@
     "durationMinutes": 48,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/32510-epidemiya-2019.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 17
   },
   {
     "id": "2026-01-27T17:06:01.752Z",
@@ -7063,7 +7102,8 @@
     "durationMinutes": 70,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/fantasy/50239-vlastelin-kolets-koltsa-vlasti-2022-latest.html",
-    "ageRating": 12
+    "ageRating": 12,
+    "episodes": 16
   },
   {
     "id": "2026-01-27T17:17:55.897Z",
@@ -7106,7 +7146,8 @@
     "durationMinutes": 55,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/fantasy/45-igra-prestolov-2011-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 73
   },
   {
     "id": "2026-01-27T17:19:18.414Z",
@@ -7130,7 +7171,8 @@
     "durationMinutes": 65,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/fantasy/48758-dom-drakona-2022-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 18
   },
   {
     "id": "2026-01-27T17:19:40.241Z",
@@ -7141,14 +7183,17 @@
     "posterUrl": "https://static.hdrezka.ac/i/2022/9/8/sf42f87a79222vt59f21n.jpg",
     "rating": 8.1,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2022,
     "trailerUrl": "https://www.youtube.com/embed/iZok3W9WJZk?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/documentary/51493-dom-kotoryy-postroili-drakony-2022-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 18
   },
   {
     "id": "2026-01-27T17:20:07.151Z",
@@ -7235,7 +7280,8 @@
     "durationMinutes": 25,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/32555-trudnye-podrostki-2019.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 45
   },
   {
     "id": "2026-01-27T17:24:39.655Z",
@@ -7256,7 +7302,8 @@
     "galleryUrls": [],
     "durationMinutes": 60,
     "isFavorite": false,
-    "mediaUrl": "https://rezka.ag/series/thriller/11375-konec-detstva-2015.html"
+    "mediaUrl": "https://rezka.ag/series/thriller/11375-konec-detstva-2015.html",
+    "episodes": 3
   },
   {
     "id": "2026-01-27T17:24:55.563Z",
@@ -7301,7 +7348,8 @@
     "durationMinutes": 55,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/1743-dekster-2006-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 10
   },
   {
     "id": "2026-01-27T17:26:01.266Z",
@@ -7324,7 +7372,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/thriller/43720-dekster-novaya-krov-2021-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 10
   },
   {
     "id": "2026-01-27T17:26:16.260Z",
@@ -7346,7 +7395,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/73653-dekster-pervorodnyy-greh-2024-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 10
   },
   {
     "id": "2026-01-27T17:26:26.098Z",
@@ -7389,7 +7439,8 @@
     "durationMinutes": 25,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/1404-kuhnya-2012-latest.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 120
   },
   {
     "id": "2026-01-27T17:27:05.564Z",
@@ -7429,7 +7480,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/22589-otel-eleon-2016-latest.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 63
   },
   {
     "id": "2026-01-27T17:27:48.899Z",
@@ -7469,7 +7521,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/28230-grand-2018-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 108
   },
   {
     "id": "2026-01-27T17:28:33.647Z",
@@ -7489,7 +7542,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/29172-senyafedya-2018-latest.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 74
   },
   {
     "id": "2026-01-27T17:28:48.631Z",
@@ -7509,7 +7563,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/32603-kuhnya-voyna-za-otel-2019-latest.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 34
   },
   {
     "id": "2026-01-27T17:29:21.630Z",
@@ -7550,7 +7605,8 @@
     "durationMinutes": 22,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/75312-shef-2024.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 8
   },
   {
     "id": "2026-01-27T17:30:02.765Z",
@@ -7688,7 +7744,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/68-gannibal-2013-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 39
   },
   {
     "id": "2026-01-27T17:33:41.618Z",
@@ -7711,7 +7768,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/detective/36944-klarissa-2021-latest.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 13
   },
   {
     "id": "2026-01-27T17:34:25.251Z",
@@ -7733,7 +7791,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/comedy/63590-otmorozhennye-2023.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 29
   },
   {
     "id": "2026-01-27T17:34:40.805Z",
@@ -7843,7 +7902,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/fantasy/23376-amerikanskie-bogi-2017.html",
-    "ageRating": 18
+    "ageRating": 18,
+    "episodes": 26
   },
   {
     "id": "2026-01-27T17:35:52.389Z",
@@ -7863,7 +7923,8 @@
     "durationMinutes": 52,
     "isFavorite": false,
     "mediaUrl": "https://rezka.ag/series/drama/11684-obnimaya-nebo-2013.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 12
   },
   {
     "id": "2026-01-27T17:36:04.121Z",
@@ -8037,7 +8098,8 @@
     "galleryUrls": [],
     "durationMinutes": 45,
     "isFavorite": false,
-    "mediaUrl": "https://rezka.ag/series/melodrama/35821-ty-tolko-moy-2020.html"
+    "mediaUrl": "https://rezka.ag/series/melodrama/35821-ty-tolko-moy-2020.html",
+    "episodes": 4
   },
   {
     "id": "2026-01-27T17:39:02.794Z",
@@ -8235,10 +8297,12 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:10:32.356Z",
     "mediaUrl": "https://rezka.ag/animation/adventures/1973-ataka-titanov-tv-1-2013.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 25,
+    "isSerial": true
   },
   {
     "title": "Атака титанов OVA-1",
@@ -8259,10 +8323,12 @@
     "galleryUrls": [],
     "durationMinutes": 23,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:10:40.892Z",
     "mediaUrl": "https://rezka.ag/animation/adventures/37168-ataka-titanov-ova-1-2013.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 3,
+    "isSerial": true
   },
   {
     "title": "Атака титанов: Выбор без сожалений OVA-2",
@@ -8286,7 +8352,8 @@
     "type": "SERIES",
     "id": "2026-01-27T20:10:48.474Z",
     "mediaUrl": "https://rezka.ag/animation/adventures/37169-ataka-titanov-vybor-bez-sozhaleniy-ova-2-2014.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 2
   },
   {
     "title": "Вторжение Гигантов! Средняя школа / Вторжение гигантов средней школы",
@@ -8921,10 +8988,12 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:16:02.091Z",
     "mediaUrl": "https://rezka.ag/animation/fighting/12333-naruto-tv-1-2002.html",
-    "ageRating": 12
+    "ageRating": 12,
+    "episodes": 220,
+    "isSerial": true
   },
   {
     "title": "Наруто [OVA-1] / Наруто: Найти тёмно-красный четырёхлистный клевер!",
@@ -9027,9 +9096,11 @@
     "galleryUrls": [],
     "durationMinutes": 97,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:16:51.131Z",
-    "mediaUrl": "https://rezka.ag/animation/adventures/2461-naruto-2-velikaya-bitva.html"
+    "mediaUrl": "https://rezka.ag/animation/adventures/2461-naruto-2-velikaya-bitva.html",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Наруто [OVA-4] / Наруто: Наконец-таки! Соревнования дзёнинов против гэнинов!",
@@ -9106,9 +9177,11 @@
     "galleryUrls": [],
     "durationMinutes": 90,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:17:27.938Z",
-    "mediaUrl": "https://rezka.ag/animation/adventures/2458-naruto-5-2008.html"
+    "mediaUrl": "https://rezka.ag/animation/adventures/2458-naruto-5-2008.html",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Наруто 6",
@@ -9125,9 +9198,11 @@
     "galleryUrls": [],
     "durationMinutes": 96,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:17:33.669Z",
-    "mediaUrl": "https://rezka.ag/animation/adventures/2454-naruto-6-2009.html"
+    "mediaUrl": "https://rezka.ag/animation/adventures/2454-naruto-6-2009.html",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Наруто [OVA-5] / Наруто: Пересечение путей / Наруто: Перекрёсток",
@@ -9167,9 +9242,11 @@
     "galleryUrls": [],
     "durationMinutes": 81,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:17:45.068Z",
-    "mediaUrl": "https://rezka.ag/animation/adventures/2456-naruto-7-poteryannaya-bashnya.html"
+    "mediaUrl": "https://rezka.ag/animation/adventures/2456-naruto-7-poteryannaya-bashnya.html",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Наруто [OVA-6] / Наруто: Джин и три желания!",
@@ -9208,9 +9285,11 @@
     "galleryUrls": [],
     "durationMinutes": 1,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:17:55.489Z",
-    "mediaUrl": "https://rezka.ag/animation/adventures/2455-naruto-8-krovavaya-tyurma.html"
+    "mediaUrl": "https://rezka.ag/animation/adventures/2455-naruto-8-krovavaya-tyurma.html",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Наруто [OVA-7] / Наруто x UT",
@@ -9268,10 +9347,12 @@
     "galleryUrls": [],
     "durationMinutes": 109,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:18:18.157Z",
     "mediaUrl": "https://rezka.ag/animation/fantasy/4373-naruto-9-put-nindzya-2012.html",
-    "ageRating": 12
+    "ageRating": 12,
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "ЧИБИ Наруто: Весна юности Рока Ли",
@@ -9311,10 +9392,12 @@
     "galleryUrls": [],
     "durationMinutes": 112,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:18:29.610Z",
     "mediaUrl": "https://rezka.ag/animation/adventures/10714-naruto-posledniy-film-2014.html",
-    "ageRating": 12
+    "ageRating": 12,
+    "isSerial": true,
+    "episodes": 1
   },
   {
     "title": "Наруто [OVA-9] / Наруто: Яичница-глазунья от Итачи / Наруто: Сражение с Глазуньей",
@@ -9355,9 +9438,11 @@
     "galleryUrls": [],
     "durationMinutes": 95,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:18:42.516Z",
-    "mediaUrl": "https://rezka.ag/animation/adventures/18182-boruto-naruto-film-2015.html"
+    "mediaUrl": "https://rezka.ag/animation/adventures/18182-boruto-naruto-film-2015.html",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Боруто [OVA] / День, когда Наруто стал Хокаге",
@@ -9376,9 +9461,11 @@
     "galleryUrls": [],
     "durationMinutes": 11,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:18:48.282Z",
-    "mediaUrl": "https://rezka.ag/animation/adventures/57083-boruto-ova-2016.html"
+    "mediaUrl": "https://rezka.ag/animation/adventures/57083-boruto-ova-2016.html",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Боруто: Новое поколение Наруто",
@@ -9638,10 +9725,12 @@
     "galleryUrls": [],
     "durationMinutes": 101,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "id": "2026-01-27T20:31:50.630Z",
     "mediaUrl": "https://rezka.ag/animation/fiction/2465-animatrica-2003-latest.html",
-    "ageRating": 12
+    "ageRating": 12,
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Матрица: Перезагрузка",
@@ -9973,7 +10062,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "id": "2026-01-27T20:42:53.438Z",
-    "mediaUrl": "https://rezka.ag/series/fiction/74658-dyuna-prorochestvo-2024.html"
+    "mediaUrl": "https://rezka.ag/series/fiction/74658-dyuna-prorochestvo-2024.html",
+    "episodes": 6
   },
   {
     "title": "Папины дочки",
@@ -9993,7 +10083,8 @@
     "type": "SERIES",
     "id": "2026-01-27T20:43:26.430Z",
     "mediaUrl": "https://rezka.ag/series/comedy/12638-papiny-dochki-2007.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 410
   },
   {
     "title": "Папины дочки. Новые",
@@ -10012,7 +10103,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "id": "2026-01-27T20:43:35.818Z",
-    "mediaUrl": "https://rezka.ag/series/comedy/61837-papiny-dochki-novye-2023.html"
+    "mediaUrl": "https://rezka.ag/series/comedy/61837-papiny-dochki-novye-2023.html",
+    "episodes": 100
   },
   {
     "title": "Папины дочки. Новогодние",
@@ -10730,7 +10822,8 @@
     "type": "SERIES",
     "id": "2026-01-27T21:02:23.885Z",
     "mediaUrl": "https://rezka.ag/cartoons/fiction/43477-arkein-2021-latest.html",
-    "ageRating": 16
+    "ageRating": 16,
+    "episodes": 18
   },
   {
     "title": "Аркейн: Преодоление разлома",
@@ -10739,7 +10832,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2024/9/7/rf6789948686bge66d82g.jpg",
     "rating": 8.8,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2022,
     "trailerUrl": "https://www.youtube.com/embed/hiKYlBMlHcw?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "galleryUrls": [],
@@ -10747,7 +10842,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "id": "2026-01-27T21:02:41.664Z",
-    "mediaUrl": "https://rezka.ag/series/documentary/73521-arkeyn-preodolenie-razloma-2022.html"
+    "mediaUrl": "https://rezka.ag/series/documentary/73521-arkeyn-preodolenie-razloma-2022.html",
+    "episodes": 5
   },
   {
     "title": "Оппенгеймер",
@@ -11620,7 +11716,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-28T19:16:52.029Z"
+    "id": "2026-01-28T19:16:52.029Z",
+    "episodes": 20
   },
   {
     "title": "Судная ночь. Начало",
@@ -11692,7 +11789,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-01-30T13:52:28.660Z"
+    "id": "2026-01-30T13:52:28.660Z",
+    "episodes": 9
   },
   {
     "title": "Сокол и Зимний Солдат",
@@ -11714,7 +11812,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T13:52:35.095Z"
+    "id": "2026-01-30T13:52:35.095Z",
+    "episodes": 6
   },
   {
     "title": "Локи",
@@ -11737,7 +11836,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T13:53:01.327Z"
+    "id": "2026-01-30T13:53:01.327Z",
+    "episodes": 12
   },
   {
     "title": "Чёрная Вдова",
@@ -11855,7 +11955,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-30T13:53:35.341Z"
+    "id": "2026-01-30T13:53:35.341Z",
+    "episodes": 6
   },
   {
     "title": "Человек-паук: Нет пути домой",
@@ -11901,7 +12002,8 @@
     "durationMinutes": 45,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T13:56:08.107Z"
+    "id": "2026-01-30T13:56:08.107Z",
+    "episodes": 6
   },
   {
     "title": "Доктор Стрэндж: В мультивселенной безумия",
@@ -11948,7 +12050,8 @@
     "durationMinutes": 46,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T13:56:24.789Z"
+    "id": "2026-01-30T13:56:24.789Z",
+    "episodes": 6
   },
   {
     "title": "Тор: Любовь и гром",
@@ -12018,7 +12121,8 @@
     "durationMinutes": 35,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T13:57:00.840Z"
+    "id": "2026-01-30T13:57:00.840Z",
+    "episodes": 9
   },
   {
     "title": "Ночной оборотень",
@@ -12160,7 +12264,8 @@
     "durationMinutes": 45,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T13:58:30.609Z"
+    "id": "2026-01-30T13:58:30.609Z",
+    "episodes": 6
   },
   {
     "title": "Марвелы / Капитан Марвел 2",
@@ -12207,7 +12312,8 @@
     "durationMinutes": 41,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T13:58:44.578Z"
+    "id": "2026-01-30T13:58:44.578Z",
+    "episodes": 5
   },
   {
     "title": "Это всё Агата",
@@ -12232,7 +12338,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T13:59:42.455Z"
+    "id": "2026-01-30T13:59:42.455Z",
+    "episodes": 9
   },
   {
     "title": "Дружелюбный сосед Человек-паук / Ваш дружелюбный сосед Человек-паук",
@@ -12304,7 +12411,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T14:00:20.661Z"
+    "id": "2026-01-30T14:00:20.661Z",
+    "episodes": 17
   },
   {
     "title": "Громовержцы*",
@@ -12351,7 +12459,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T14:00:34.135Z"
+    "id": "2026-01-30T14:00:34.135Z",
+    "episodes": 6
   },
   {
     "title": "Фантастическая четвёрка: Первые шаги",
@@ -12427,7 +12536,7 @@
     "description": "Голливудский актер Саймон Уильямс погружается в мир супергероев, обретая собственные силы и становясь новым супергероем Чудо-Человеком.",
     "originalTitle": "Wonder Man",
     "posterUrl": "https://static.hdrezka.ac/i/2026/1/28/w3ab37260fc69sb10t15e.jpg",
-    "rating": 7.6,
+    "rating": 7.5,
     "status": "NEW",
     "genres": [
       "Боевик",
@@ -12443,7 +12552,8 @@
     "durationMinutes": 32,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T14:01:02.631Z"
+    "id": "2026-01-30T14:01:02.631Z",
+    "episodes": 8
   },
   {
     "title": "Губка Боб квадратные штаны",
@@ -12968,7 +13078,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T14:05:26.098Z"
+    "id": "2026-01-30T14:05:26.098Z",
+    "episodes": 63
   },
   {
     "title": "Лучше звоните Солу",
@@ -12989,7 +13100,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-30T14:05:41.154Z"
+    "id": "2026-01-30T14:05:41.154Z",
+    "episodes": 63
   },
   {
     "title": "El Camino: Во все тяжкие",
@@ -13122,7 +13234,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T14:06:46.664Z"
+    "id": "2026-01-30T14:06:46.664Z",
+    "episodes": 30
   },
   {
     "title": "Крик",
@@ -13632,7 +13745,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T14:14:00.991Z"
+    "id": "2026-01-30T14:14:00.991Z",
+    "episodes": 16
   },
   {
     "title": "Очень странные дела / Загадочные события",
@@ -13657,7 +13771,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-30T14:14:18.107Z"
+    "id": "2026-01-30T14:14:18.107Z",
+    "episodes": 42
   },
   {
     "title": "Внешние отмели",
@@ -13680,7 +13795,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-30T14:14:37.903Z"
+    "id": "2026-01-30T14:14:37.903Z",
+    "episodes": 40
   },
   {
     "title": "Ривердэйл",
@@ -13702,7 +13818,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-30T14:15:04.700Z"
+    "id": "2026-01-30T14:15:04.700Z",
+    "episodes": 137
   },
   {
     "title": "Король Талсы",
@@ -13724,7 +13841,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T14:15:51.796Z"
+    "id": "2026-01-30T14:15:51.796Z",
+    "episodes": 29
   },
   {
     "title": "Гран Туризмо",
@@ -15377,7 +15495,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-01-30T14:51:48.757Z"
+    "id": "2026-01-30T14:51:48.757Z",
+    "episodes": 1228
   },
   {
     "title": "Покемон: Мьюту против Мью / Покемон: Мьюту наносит ответный удар (фильм 1)",
@@ -15419,9 +15538,11 @@
     "galleryUrls": [],
     "durationMinutes": 80,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 0,
-    "id": "2026-01-30T14:52:00.759Z"
+    "id": "2026-01-30T14:52:00.759Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Покемон (фильм 3: Чары Аноунов)",
@@ -15464,9 +15585,11 @@
     "galleryUrls": [],
     "durationMinutes": 75,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 12,
-    "id": "2026-01-30T14:53:42.308Z"
+    "id": "2026-01-30T14:53:42.308Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Покемон 5: Герои Латиос и Латиас / Покемон: Хранители водной столицы - Ратиасу и Ратиосу (фильм 5)",
@@ -15683,8 +15806,10 @@
     "galleryUrls": [],
     "durationMinutes": 98,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-01-30T14:54:56.770Z"
+    "type": "ANIME",
+    "id": "2026-01-30T14:54:56.770Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Покемон 14: Виктини и Белый герой — Реширам / Покемон (фильм 14-2)",
@@ -15750,9 +15875,11 @@
     "galleryUrls": [],
     "durationMinutes": 79,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 12,
-    "id": "2026-01-30T14:55:16.119Z"
+    "id": "2026-01-30T14:55:16.119Z",
+    "isSerial": true,
+    "episodes": 1
   },
   {
     "title": "Покемон: Дианси и Кокон разрушения (фильм 17)",
@@ -16097,8 +16224,10 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-01-30T14:59:09.783Z"
+    "type": "ANIME",
+    "id": "2026-01-30T14:59:09.783Z",
+    "episodes": 25,
+    "isSerial": true
   },
   {
     "title": "Волейбол [OVA-1]",
@@ -16497,9 +16626,11 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-01-30T15:02:56.681Z"
+    "id": "2026-01-30T15:02:56.681Z",
+    "episodes": 25,
+    "isSerial": true
   },
   {
     "title": "Мастера меча онлайн: Специальное издание",
@@ -16518,8 +16649,10 @@
     "galleryUrls": [],
     "durationMinutes": 100,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-01-30T15:03:02.045Z"
+    "type": "ANIME",
+    "id": "2026-01-30T15:03:02.045Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Мастера меча онлайн [ТВ-2]",
@@ -16540,9 +16673,11 @@
     "galleryUrls": [],
     "durationMinutes": 24,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-01-30T15:03:09.178Z"
+    "id": "2026-01-30T15:03:09.178Z",
+    "episodes": 24,
+    "isSerial": true
   },
   {
     "title": "Мастер меча онлайн: Порядковый ранг",
@@ -16970,7 +17105,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T15:12:50.690Z"
+    "id": "2026-01-30T15:12:50.690Z",
+    "episodes": 13
   },
   {
     "title": "Почётная ученица в школе магии",
@@ -17012,7 +17148,8 @@
     "durationMinutes": 95,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T15:13:12.949Z"
+    "id": "2026-01-30T15:13:12.949Z",
+    "episodes": 1
   },
   {
     "title": "Непутёвый ученик в школе магии 3 [ТВ-3] / Посредственность из школы магов 3",
@@ -17273,7 +17410,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 0,
-    "id": "2026-01-30T15:17:52.809Z"
+    "id": "2026-01-30T15:17:52.809Z",
+    "episodes": 26
   },
   {
     "title": "Драконий жемчуг / Драгонболл / Драгон Болл",
@@ -17293,8 +17431,10 @@
     "galleryUrls": [],
     "durationMinutes": 22,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-01-30T15:18:53.273Z"
+    "type": "ANIME",
+    "id": "2026-01-30T15:18:53.273Z",
+    "episodes": 153,
+    "isSerial": true
   },
   {
     "title": "Драконий жемчуг Зет / Драгонболл Зет / Драгон Болл Зет",
@@ -17314,8 +17454,10 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-01-30T15:19:15.520Z"
+    "type": "ANIME",
+    "id": "2026-01-30T15:19:15.520Z",
+    "episodes": 291,
+    "isSerial": true
   },
   {
     "title": "Драконий жемчуг супер",
@@ -17335,8 +17477,10 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-01-30T15:19:56.717Z"
+    "type": "ANIME",
+    "id": "2026-01-30T15:19:56.717Z",
+    "episodes": 131,
+    "isSerial": true
   },
   {
     "title": "Драконий жемчуг супер: Броли",
@@ -17473,7 +17617,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-01-30T15:20:37.431Z"
+    "id": "2026-01-30T15:20:37.431Z",
+    "episodes": 8
   },
   {
     "title": "Черепашки мутанты ниндзя",
@@ -17862,9 +18007,11 @@
     "galleryUrls": [],
     "durationMinutes": 83,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-01-30T15:28:48.143Z"
+    "id": "2026-01-30T15:28:48.143Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Призрак в доспехах: Синдром одиночки [ТВ-1]",
@@ -17883,9 +18030,11 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-01-30T15:28:54.030Z"
+    "id": "2026-01-30T15:28:54.030Z",
+    "episodes": 26,
+    "isSerial": true
   },
   {
     "title": "Призрак в доспехах 2: Невинность",
@@ -17904,9 +18053,11 @@
     "galleryUrls": [],
     "durationMinutes": 100,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-01-30T15:29:02.876Z"
+    "id": "2026-01-30T15:29:02.876Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Призрак в доспехах: Синдром одиночки [ТВ-2]",
@@ -17969,9 +18120,11 @@
     "galleryUrls": [],
     "durationMinutes": 85,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-01-30T15:29:26.730Z"
+    "id": "2026-01-30T15:29:26.730Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Призрак в доспехах у истоков: Грань 1 — Боль призрака",
@@ -17991,9 +18144,11 @@
     "galleryUrls": [],
     "durationMinutes": 58,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 18,
-    "id": "2026-01-30T15:29:54.517Z"
+    "id": "2026-01-30T15:29:54.517Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Призрак в доспехах у истоков: Грань 2 — Шёпот призрака",
@@ -18078,9 +18233,11 @@
     "galleryUrls": [],
     "durationMinutes": 100,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 18,
-    "id": "2026-01-30T15:30:18.052Z"
+    "id": "2026-01-30T15:30:18.052Z",
+    "isSerial": true,
+    "episodes": 1
   },
   {
     "title": "Призрак в доспехах. Истоки: Альтернативная архитектура",
@@ -18099,9 +18256,11 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 18,
-    "id": "2026-01-30T15:30:27.201Z"
+    "id": "2026-01-30T15:30:27.201Z",
+    "episodes": 10,
+    "isSerial": true
   },
   {
     "title": "Призрак в доспехах у истоков: Грань 5 — Пирофорный культ",
@@ -18542,7 +18701,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 6,
-    "id": "2026-01-30T15:34:27.762Z"
+    "id": "2026-01-30T15:34:27.762Z",
+    "episodes": 104
   },
   {
     "title": "Тролли. Мировой тур",
@@ -19434,7 +19594,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2016/8/30/lcfccdea73488fw94h56s.jpg",
     "rating": 5.6,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2013,
     "trailerUrl": "https://www.youtube.com/embed/10579h940Sk?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/realtv/18795-mastershef-2013.html",
@@ -19443,7 +19605,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-30T15:45:23.016Z"
+    "id": "2026-01-30T15:45:23.016Z",
+    "episodes": 24
   },
   {
     "title": "МастерШеф. Дети",
@@ -19452,7 +19615,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2017/7/23/n841d3ccee371xj65e40q.jpg",
     "rating": 0,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2015,
     "trailerUrl": "https://www.youtube.com/embed/C2FHa7PPSDg?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/realtv/19150-mastershef-deti-2015.html",
@@ -19460,7 +19625,8 @@
     "durationMinutes": 45,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-30T15:46:09.924Z"
+    "id": "2026-01-30T15:46:09.924Z",
+    "episodes": 24
   },
   {
     "title": "Кунг-фу Панда",
@@ -20110,7 +20276,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-30T15:52:45.103Z"
+    "id": "2026-01-30T15:52:45.103Z",
+    "episodes": 8
   },
   {
     "title": "Терминатор",
@@ -21828,7 +21995,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-30T16:23:03.084Z"
+    "id": "2026-01-30T16:23:03.084Z",
+    "episodes": 27
   },
   {
     "title": "Гуррен-Лаганн (фильм первый)",
@@ -21849,8 +22017,10 @@
     "galleryUrls": [],
     "durationMinutes": 112,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-01-30T16:23:08.544Z"
+    "type": "ANIME",
+    "id": "2026-01-30T16:23:08.544Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Атлантида: Затерянный мир",
@@ -22052,7 +22222,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T00:20:30.088Z"
+    "id": "2026-01-31T00:20:30.088Z",
+    "episodes": 10
   },
   {
     "title": "Тупик",
@@ -22116,7 +22287,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T00:22:10.379Z"
+    "id": "2026-01-31T00:22:10.379Z",
+    "episodes": 24
   },
   {
     "title": "Армия мертвецов",
@@ -22276,7 +22448,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T00:25:08.107Z"
+    "id": "2026-01-31T00:25:08.107Z",
+    "episodes": 8
   },
   {
     "title": "Докопаться до могилы",
@@ -22318,7 +22491,8 @@
     "durationMinutes": 45,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-31T00:25:51.890Z"
+    "id": "2026-01-31T00:25:51.890Z",
+    "episodes": 6
   },
   {
     "title": "Жизнь Пи",
@@ -22361,7 +22535,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T00:26:30.805Z"
+    "id": "2026-01-31T00:26:30.805Z",
+    "episodes": 8
   },
   {
     "title": "Иное",
@@ -22449,7 +22624,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-31T00:37:11.348Z"
+    "id": "2026-01-31T00:37:11.348Z",
+    "episodes": 10
   },
   {
     "title": "Красное уведомление",
@@ -22537,7 +22713,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T00:39:29.208Z"
+    "id": "2026-01-31T00:39:29.208Z",
+    "episodes": 13
   },
   {
     "title": "Мрачные тени",
@@ -22607,7 +22784,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T00:41:35.184Z"
+    "id": "2026-01-31T00:41:35.184Z",
+    "episodes": 68
   },
   {
     "title": "Чёрное лето",
@@ -22630,7 +22808,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T00:41:41.888Z"
+    "id": "2026-01-31T00:41:41.888Z",
+    "episodes": 16
   },
   {
     "title": "Не дыши",
@@ -22910,7 +23089,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T00:57:07.334Z"
+    "id": "2026-01-31T00:57:07.334Z",
+    "episodes": 20
   },
   {
     "title": "Черное зеркало",
@@ -22932,7 +23112,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T00:58:30.118Z"
+    "id": "2026-01-31T00:58:30.118Z",
+    "episodes": 33
   },
   {
     "title": "Черное зеркало: Брандашмыг",
@@ -22978,7 +23159,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:00:16.619Z"
+    "id": "2026-01-31T01:00:16.619Z",
+    "episodes": 8
   },
   {
     "title": "Доктор Кто",
@@ -23001,7 +23183,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-01-31T01:01:00.672Z"
+    "id": "2026-01-31T01:01:00.672Z",
+    "episodes": 173
   },
   {
     "title": "Звездные врата",
@@ -23046,7 +23229,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T01:01:51.923Z"
+    "id": "2026-01-31T01:01:51.923Z",
+    "episodes": 214
   },
   {
     "title": "Звездные Врата: Атлантида",
@@ -23069,7 +23253,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T01:02:02.146Z"
+    "id": "2026-01-31T01:02:02.146Z",
+    "episodes": 100
   },
   {
     "title": "Звездные врата: Ковчег Истины",
@@ -23135,7 +23320,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-01-31T01:02:19.155Z"
+    "id": "2026-01-31T01:02:19.155Z",
+    "episodes": 40
   },
   {
     "title": "Звездные врата: Начало",
@@ -23158,7 +23344,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:02:25.996Z"
+    "id": "2026-01-31T01:02:25.996Z",
+    "episodes": 10
   },
   {
     "title": "Кабинет редкостей Гильермо дель Торо",
@@ -23181,7 +23368,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:02:50.689Z"
+    "id": "2026-01-31T01:02:50.689Z",
+    "episodes": 8
   },
   {
     "title": "Сквозь снег",
@@ -23204,7 +23392,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:03:25.802Z"
+    "id": "2026-01-31T01:03:25.802Z",
+    "episodes": 40
   },
   {
     "title": "Слизни / Слизняки / Слизни, Вязкая Смерть",
@@ -23265,7 +23454,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 6,
-    "id": "2026-01-31T01:06:33.612Z"
+    "id": "2026-01-31T01:06:33.612Z",
+    "episodes": 20
   },
   {
     "title": "Зима, весна, лето или осень / Времена года",
@@ -23307,7 +23497,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T01:11:17.332Z"
+    "id": "2026-01-31T01:11:17.332Z",
+    "episodes": 100
   },
   {
     "title": "Спокойной ночи, мамочка",
@@ -23420,7 +23611,8 @@
     "durationMinutes": 45,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-01-31T01:13:54.769Z"
+    "id": "2026-01-31T01:13:54.769Z",
+    "episodes": 46
   },
   {
     "title": "Миссия «Серенити»",
@@ -23795,9 +23987,10 @@
     "galleryUrls": [],
     "durationMinutes": 95,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "MOVIE",
     "ageRating": 18,
-    "id": "2026-01-31T01:28:17.787Z"
+    "id": "2026-01-31T01:28:17.787Z",
+    "isSerial": false
   },
   {
     "title": "Альтер",
@@ -24607,7 +24800,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:53:47.263Z"
+    "id": "2026-01-31T01:53:47.263Z",
+    "episodes": 36
   },
   {
     "title": "Сверхъестественное",
@@ -24631,7 +24825,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T01:54:06.394Z"
+    "id": "2026-01-31T01:54:06.394Z",
+    "episodes": 328
   },
   {
     "title": "Спартак: Дом Ашура",
@@ -24654,7 +24849,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:54:17.504Z"
+    "id": "2026-01-31T01:54:17.504Z",
+    "episodes": 10
   },
   {
     "title": "Ведьмак",
@@ -24677,7 +24873,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:54:27.957Z"
+    "id": "2026-01-31T01:54:27.957Z",
+    "episodes": 32
   },
   {
     "title": "Офис",
@@ -24697,7 +24894,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:54:52.349Z"
+    "id": "2026-01-31T01:54:52.349Z",
+    "episodes": 204
   },
   {
     "title": "Великолепный век",
@@ -24718,7 +24916,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-01-31T01:55:44.904Z"
+    "id": "2026-01-31T01:55:44.904Z",
+    "episodes": 310
   },
   {
     "title": "Одни из нас",
@@ -24743,7 +24942,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-01-31T01:56:05.306Z"
+    "id": "2026-01-31T01:56:05.306Z",
+    "episodes": 17
   },
   {
     "title": "Жизнь по вызову",
@@ -24763,7 +24963,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-07T01:00:34.490Z"
+    "id": "2026-02-07T01:00:34.490Z",
+    "episodes": 30
   },
   {
     "title": "Жизнь по вызову. Фильм",
@@ -24961,7 +25162,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-07T01:02:04.028Z"
+    "id": "2026-02-07T01:02:04.028Z",
+    "episodes": 8
   },
   {
     "title": "Halo 4: Идущий к рассвету",
@@ -25006,7 +25208,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-07T01:02:18.861Z"
+    "id": "2026-02-07T01:02:18.861Z",
+    "episodes": 5
   },
   {
     "title": "Halo: Падение предела",
@@ -25049,7 +25252,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-07T01:02:31.580Z"
+    "id": "2026-02-07T01:02:31.580Z",
+    "episodes": 17
   },
   {
     "title": "Химера",
@@ -25070,7 +25274,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-07T01:02:40.217Z"
+    "id": "2026-02-07T01:02:40.217Z",
+    "episodes": 10
   },
   {
     "title": "Пираньи 3D",
@@ -25452,7 +25657,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-02-18T01:35:42.928Z"
+    "id": "2026-02-18T01:35:42.928Z",
+    "episodes": 10
   },
   {
     "title": "Дракула",
@@ -25515,7 +25721,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:35:42.962Z"
+    "id": "2026-02-18T01:35:42.962Z",
+    "episodes": 185
   },
   {
     "title": "Том и Джерри: Гигантское приключение",
@@ -25952,7 +26159,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:14.595Z"
+    "id": "2026-02-18T01:39:14.595Z",
+    "episodes": 24
   },
   {
     "title": "Том и Джерри: Шпион Квест",
@@ -26931,7 +27139,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:34.454Z"
+    "id": "2026-02-18T01:39:34.454Z",
+    "episodes": 32
   },
   {
     "title": "S. W. A. T.: Спецназ города ангелов",
@@ -26955,7 +27164,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:39:34.466Z"
+    "id": "2026-02-18T01:39:34.466Z",
+    "episodes": 163
   },
   {
     "title": "Скуби Ду: Забавные состязания «Всех мультсупер звезд»",
@@ -27160,7 +27370,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:39.531Z"
+    "id": "2026-02-18T01:39:39.531Z",
+    "episodes": 30
   },
   {
     "title": "Скуби-ду",
@@ -27339,7 +27550,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-02-18T01:39:39.603Z"
+    "id": "2026-02-18T01:39:39.603Z",
+    "episodes": 6
   },
   {
     "title": "Скуби-Ду и проклятье тринадцатого призрака",
@@ -27386,7 +27598,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:39.625Z"
+    "id": "2026-02-18T01:39:39.625Z",
+    "episodes": 20
   },
   {
     "title": "Иная Жизнь",
@@ -27409,7 +27622,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:39.632Z"
+    "id": "2026-02-18T01:39:39.632Z",
+    "episodes": 20
   },
   {
     "title": "Скуби-Ду и угадай кто?",
@@ -27455,7 +27669,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:44.774Z"
+    "id": "2026-02-18T01:39:44.774Z",
+    "episodes": 30
   },
   {
     "title": "Нереалити",
@@ -27476,7 +27691,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:39:44.789Z"
+    "id": "2026-02-18T01:39:44.789Z",
+    "episodes": 18
   },
   {
     "title": "Два холма",
@@ -27497,7 +27713,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:39:44.800Z"
+    "id": "2026-02-18T01:39:44.800Z",
+    "episodes": 41
   },
   {
     "title": "Новые загадки для Скуби-Ду",
@@ -27582,7 +27799,8 @@
     "durationMinutes": 45,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-02-18T01:39:44.840Z"
+    "id": "2026-02-18T01:39:44.840Z",
+    "episodes": 10
   },
   {
     "title": "Подземелья и драконы: Честь среди воров",
@@ -27992,7 +28210,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:50.504Z"
+    "id": "2026-02-18T01:39:50.504Z",
+    "episodes": 30
   },
   {
     "title": "Скуби-Ду: Таинственная карта",
@@ -28147,7 +28366,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:39:55.631Z"
+    "id": "2026-02-18T01:39:55.631Z",
+    "episodes": 45
   },
   {
     "title": "Скуби-Ду и меч самурая",
@@ -28343,7 +28563,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:39:55.719Z"
+    "id": "2026-02-18T01:39:55.719Z",
+    "episodes": 182
   },
   {
     "title": "Том и Джерри: Маленькие помощники Санты",
@@ -28458,7 +28679,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-02-18T01:40:01.116Z"
+    "id": "2026-02-18T01:40:01.116Z",
+    "episodes": 30
   },
   {
     "title": "На грани сна / На краю сна",
@@ -28478,7 +28700,8 @@
     "durationMinutes": 20,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-02-18T01:40:01.123Z"
+    "id": "2026-02-18T01:40:01.123Z",
+    "episodes": 6
   },
   {
     "title": "Лило и Стич (2025)",
@@ -28543,7 +28766,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-02-18T01:40:01.143Z"
+    "id": "2026-02-18T01:40:01.143Z",
+    "episodes": 18
   },
   {
     "title": "Сокровище нации",
@@ -28980,9 +29204,11 @@
     "galleryUrls": [],
     "durationMinutes": 23,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "CARTOON",
     "ageRating": 6,
-    "id": "2026-04-12T02:24:27.119Z"
+    "id": "2026-04-12T02:24:27.119Z",
+    "episodes": 65,
+    "isSerial": true
   },
   {
     "title": "Пингвины из Мадагаскара в рождественских приключениях",
@@ -29045,7 +29271,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-04-12T02:24:27.133Z"
+    "id": "2026-04-12T02:24:27.133Z",
+    "episodes": 13
   },
   {
     "title": "Мадагаскар: Маленькие и дикие",
@@ -29168,7 +29395,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 6,
-    "id": "2026-04-12T14:55:28.037Z"
+    "id": "2026-04-12T14:55:28.037Z",
+    "episodes": 4
   },
   {
     "title": "Чебурашка",
@@ -29252,7 +29480,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T15:04:53.042Z"
+    "id": "2026-04-12T15:04:53.042Z",
+    "episodes": 8
   },
   {
     "title": "Король и Шут: Экстра",
@@ -29261,7 +29490,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2023/3/26/l7a07357a4cf8bu73a51t.jpg",
     "rating": 0,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2023,
     "trailerUrl": "-Нету",
     "mediaUrl": "https://rezka.ag/series/documentary/56053-korol-i-shut-ekstra-2023.html",
@@ -29270,7 +29501,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T15:04:53.052Z"
+    "id": "2026-04-12T15:04:53.052Z",
+    "episodes": 4
   },
   {
     "title": "Шерлок Холмс",
@@ -29608,7 +29840,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T15:14:24.288Z"
+    "id": "2026-04-12T15:14:24.288Z",
+    "episodes": 8
   },
   {
     "title": "Министерство неджентльменских дел",
@@ -29651,7 +29884,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T15:14:24.304Z"
+    "id": "2026-04-12T15:14:24.304Z",
+    "episodes": 10
   },
   {
     "title": "Источник вечной молодости",
@@ -29741,7 +29975,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T20:15:50.534Z"
+    "id": "2026-04-12T20:15:50.534Z",
+    "episodes": 30
   },
   {
     "title": "Кин",
@@ -29789,7 +30024,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T20:15:50.565Z"
+    "id": "2026-04-12T20:15:50.565Z",
+    "episodes": 41
   },
   {
     "title": "Люди в черном: Интернэшнл",
@@ -29834,7 +30070,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T20:15:50.583Z"
+    "id": "2026-04-12T20:15:50.583Z",
+    "episodes": 23
   },
   {
     "title": "911: Одинокая звезда",
@@ -29856,7 +30093,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T20:15:50.592Z"
+    "id": "2026-04-12T20:15:50.592Z",
+    "episodes": 72
   },
   {
     "title": "Без жалости",
@@ -29987,7 +30225,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-12T20:15:50.644Z"
+    "id": "2026-04-12T20:15:50.644Z",
+    "episodes": 16
   },
   {
     "title": "Клетка духа: Воплощение",
@@ -30117,7 +30356,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-12T20:15:50.696Z"
+    "id": "2026-04-12T20:15:50.696Z",
+    "episodes": 10
   },
   {
     "title": "911: Нашвилл",
@@ -30138,7 +30378,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-04-12T20:15:50.705Z"
+    "id": "2026-04-12T20:15:50.705Z",
+    "episodes": 18
   },
   {
     "title": "Наша вина",
@@ -30592,7 +30833,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-12T20:15:50.869Z"
+    "id": "2026-04-12T20:15:50.869Z",
+    "episodes": 142
   },
   {
     "title": "Чужой против Хищника",
@@ -30704,7 +30946,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-26T23:02:43.906Z"
+    "id": "2026-04-26T23:02:43.906Z",
+    "episodes": 280
   },
   {
     "title": "Неуязвимый",
@@ -30792,7 +31035,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-26T23:02:43.934Z"
+    "id": "2026-04-26T23:02:43.934Z",
+    "episodes": 142
   },
   {
     "title": "Детство Шелдона / Юный Шелдон",
@@ -30812,7 +31056,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:43.943Z"
+    "id": "2026-04-26T23:02:43.943Z",
+    "episodes": 141
   },
   {
     "title": "Олаф и холодное приключение",
@@ -30857,7 +31102,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:43.955Z"
+    "id": "2026-04-26T23:02:43.955Z",
+    "episodes": 32
   },
   {
     "title": "Йеллоустоун",
@@ -30879,7 +31125,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:43.963Z"
+    "id": "2026-04-26T23:02:43.963Z",
+    "episodes": 53
   },
   {
     "title": "Веном",
@@ -30950,7 +31197,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:43.984Z"
+    "id": "2026-04-26T23:02:43.984Z",
+    "episodes": 46
   },
   {
     "title": "Омен: Перерождение",
@@ -30991,7 +31239,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:43.999Z"
+    "id": "2026-04-26T23:02:43.999Z",
+    "episodes": 25
   },
   {
     "title": "Капкан",
@@ -31019,7 +31268,7 @@
   },
   {
     "title": "Видеть",
-    "description": "Действие сериала разворачивается в далёком будущем, когда человеческая раса лишилась зрения. Люди вернулись к племенному образу жизни, называя солнце «пламенным богом» и сжигая на кострах «еретиков», которые всё ещё вспоминают о зрении. Однажды глава племени Баба Восс берёт в жены Магру, пришедшую в поселение извне. Вскоре у женщины рождаются зрячие близнецы, в результате чего семью проклинают и называют еретиками. Желая защитить детей, Баба Восс решает бежать вместе с жителями деревни, чтобы построить дом в новом месте, ведь рождение зрячих рискует нарушить хрупкий баланс нового мира...",
+    "description": "Действие сериала разворачивается в далёком будущем, когда человеческая раса лишилась зрения. Люди вернулись к племенному образу жизни, называя солнце «пламенным богом» и сжигая на кострах «еретиков», которые всё ещё вспоминают о зрении. Однажды глава племени Баба Восс берёт в жены Магру, пришедшую в поселение извне. Вскоре у женщины рождаются зрячие близнецы, в результате чего семью проклинают и называют еретиками. Желая защитить детей, Баба Восс решает бежать вместе с жителями деревни, чтобы построить дом в новом месте, ведь рождение зрячих рискует нарушить хрупкий баланс нового мира.",
     "originalTitle": "See",
     "posterUrl": "https://static.hdrezka.ac/i/2026/2/17/x73063a093c1asi96x96a.jpg",
     "rating": 7.6,
@@ -31035,7 +31284,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-04-26T23:02:44.012Z"
+    "id": "2026-04-26T23:02:44.012Z",
+    "episodes": 24
   },
   {
     "title": "Космические силы / Космические войска",
@@ -31055,7 +31305,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-26T23:02:44.019Z"
+    "id": "2026-04-26T23:02:44.019Z",
+    "episodes": 17
   },
   {
     "title": "Девушки с Макаровым",
@@ -31075,7 +31326,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-26T23:02:44.028Z"
+    "id": "2026-04-26T23:02:44.028Z",
+    "episodes": 100
   },
   {
     "title": "Веном 2",
@@ -31107,7 +31359,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2025/5/23/n66d179f9d5dbnw77z91b.jpg",
     "rating": 9,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2021,
     "trailerUrl": "https://www.youtube.com/embed/USzFmRbRQGQ?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/40177-ferma-klarksona-2021-latest.html",
@@ -31115,7 +31369,8 @@
     "durationMinutes": 48,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-04-26T23:02:44.042Z"
+    "id": "2026-04-26T23:02:44.042Z",
+    "episodes": 32
   },
   {
     "title": "Олаф представляет",
@@ -31181,7 +31436,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:44.061Z"
+    "id": "2026-04-26T23:02:44.061Z",
+    "episodes": 11
   },
   {
     "title": "Новогодний пёс",
@@ -31226,7 +31482,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:44.074Z"
+    "id": "2026-04-26T23:02:44.074Z",
+    "episodes": 36
   },
   {
     "title": "Жил-был снеговик",
@@ -31269,7 +31526,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:44.086Z"
+    "id": "2026-04-26T23:02:44.086Z",
+    "episodes": 15
   },
   {
     "title": "Крэйвен-охотник",
@@ -31418,7 +31676,8 @@
     "durationMinutes": 22,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-04-26T23:02:44.133Z"
+    "id": "2026-04-26T23:02:44.133Z",
+    "episodes": 44
   },
   {
     "title": "Игры Биста",
@@ -31427,7 +31686,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2025/12/28/d598ab92aecb9la80b94e.jpg",
     "rating": 5.9,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2024,
     "trailerUrl": "https://www.youtube.com/embed/37ZG9lddxto?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/realtv/76155-igry-bista-2024.html",
@@ -31436,7 +31697,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-04-26T23:02:44.141Z"
+    "id": "2026-04-26T23:02:44.141Z",
+    "episodes": 20
   },
   {
     "title": "Ронин",
@@ -31459,7 +31721,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-04-26T23:02:44.149Z"
+    "id": "2026-04-26T23:02:44.149Z",
+    "episodes": 44
   },
   {
     "title": "Мистер К",
@@ -31502,7 +31765,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-04-26T23:02:44.162Z"
+    "id": "2026-04-26T23:02:44.162Z",
+    "episodes": 8
   },
   {
     "title": "Удачи, веселья, не сдохни",
@@ -31939,7 +32203,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T13:14:56.358Z"
+    "id": "2026-05-10T13:14:56.358Z",
+    "episodes": 177
   },
   {
     "title": "Чарли и шоколадная фабрика",
@@ -32166,7 +32431,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T13:14:56.445Z"
+    "id": "2026-05-10T13:14:56.445Z",
+    "episodes": 9
   },
   {
     "title": "Бойтесь ходячих мертвецов",
@@ -32189,7 +32455,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-10T13:14:56.453Z"
+    "id": "2026-05-10T13:14:56.453Z",
+    "episodes": 115
   },
   {
     "title": "Звёздные войны: Пробуждение силы",
@@ -32346,7 +32613,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-10T13:14:56.509Z"
+    "id": "2026-05-10T13:14:56.509Z",
+    "episodes": 20
   },
   {
     "title": "Бойтесь ходячих мертвецов: Рейс 462",
@@ -32369,7 +32637,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T13:14:56.517Z"
+    "id": "2026-05-10T13:14:56.517Z",
+    "episodes": 16
   },
   {
     "title": "Бойтесь ходячих мертвецов: Мертвецы в воде",
@@ -32389,7 +32658,8 @@
     "durationMinutes": 8,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-10T13:14:56.525Z"
+    "id": "2026-05-10T13:14:56.525Z",
+    "episodes": 6
   },
   {
     "title": "Истории ходячих мертвецов / Байки ходячих мертвецов",
@@ -32413,7 +32683,8 @@
     "durationMinutes": 53,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-10T13:14:56.533Z"
+    "id": "2026-05-10T13:14:56.533Z",
+    "episodes": 6
   },
   {
     "title": "Бойтесь ходячих мертвецов: Кассеты Алтеи",
@@ -32435,7 +32706,8 @@
     "durationMinutes": 6,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-10T13:14:56.539Z"
+    "id": "2026-05-10T13:14:56.539Z",
+    "episodes": 6
   },
   {
     "title": "Бойтесь ходячих мертвецов: Проход / Бойтесь ходячих мертвецов: Переход",
@@ -32456,7 +32728,8 @@
     "durationMinutes": 1,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-10T13:14:56.545Z"
+    "id": "2026-05-10T13:14:56.545Z",
+    "episodes": 16
   },
   {
     "title": "Ходячие мертвецы: Мёртвый город",
@@ -32479,7 +32752,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T13:14:56.553Z"
+    "id": "2026-05-10T13:14:56.553Z",
+    "episodes": 14
   },
   {
     "title": "Ходячие мертвецы: Дэрил Диксон",
@@ -32503,7 +32777,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T13:14:56.561Z"
+    "id": "2026-05-10T13:14:56.561Z",
+    "episodes": 19
   },
   {
     "title": "Вонка",
@@ -32547,7 +32822,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T13:14:56.579Z"
+    "id": "2026-05-10T13:14:56.579Z",
+    "episodes": 6
   },
   {
     "title": "Ходячие мертвецы: Возвращение",
@@ -33205,9 +33481,11 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-05-10T21:11:56.646Z"
+    "id": "2026-05-10T21:11:56.646Z",
+    "episodes": 24,
+    "isSerial": true
   },
   {
     "title": "Лига справедливости",
@@ -33641,7 +33919,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-05-10T21:11:56.805Z"
+    "id": "2026-05-10T21:11:56.805Z",
+    "episodes": 22
   },
   {
     "title": "Take My Muffin",
@@ -33707,8 +33986,10 @@
     "galleryUrls": [],
     "durationMinutes": 25,
     "isFavorite": false,
-    "type": "SERIES",
-    "id": "2026-05-10T21:11:56.827Z"
+    "type": "ANIME",
+    "id": "2026-05-10T21:11:56.827Z",
+    "episodes": 26,
+    "isSerial": true
   },
   {
     "title": "Индиана Джонс и колесо судьбы / Индиана Джонс и часы судьбы",
@@ -33809,7 +34090,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2023/3/27/r8e1a52ef4fb7lf62j41c.jpg",
     "rating": 8,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2022,
     "trailerUrl": "https://www.youtube.com/embed/p2BMYBidDOI?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/56154-god-na-planete-zemlya-2022.html",
@@ -33817,7 +34100,8 @@
     "durationMinutes": 46,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-10T21:11:56.866Z"
+    "id": "2026-05-10T21:11:56.866Z",
+    "episodes": 6
   },
   {
     "title": "Синий Жук",
@@ -33863,7 +34147,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-10T21:11:56.882Z"
+    "id": "2026-05-10T21:11:56.882Z",
+    "episodes": 8
   },
   {
     "title": "Монарх: Наследие монстров",
@@ -33885,7 +34170,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T21:11:56.891Z"
+    "id": "2026-05-10T21:11:56.891Z",
+    "episodes": 20
   },
   {
     "title": "Царство падальщиков",
@@ -33927,7 +34213,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-10T21:11:56.931Z"
+    "id": "2026-05-10T21:11:56.931Z",
+    "episodes": 8
   },
   {
     "title": "007: Дорога к миллиону",
@@ -33946,7 +34233,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-10T21:11:56.955Z"
+    "id": "2026-05-10T21:11:56.955Z",
+    "episodes": 8
   },
   {
     "title": "Годзилла и Конг: Новая империя",
@@ -34091,7 +34379,8 @@
     "durationMinutes": 56,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-10T21:11:57.010Z"
+    "id": "2026-05-10T21:11:57.010Z",
+    "episodes": 16
   },
   {
     "title": "Ждун",
@@ -34265,7 +34554,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-13T22:51:01.188Z"
+    "id": "2026-05-13T22:51:01.188Z",
+    "episodes": 64
   },
   {
     "title": "Доктор Хаус",
@@ -34286,7 +34576,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-13T22:51:01.197Z"
+    "id": "2026-05-13T22:51:01.197Z",
+    "episodes": 177
   },
   {
     "title": "Кости",
@@ -34310,7 +34601,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-13T22:51:01.207Z"
+    "id": "2026-05-13T22:51:01.207Z",
+    "episodes": 246
   },
   {
     "title": "Мой маленький пони: Дружба – это чудо",
@@ -34356,7 +34648,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-13T22:51:01.226Z"
+    "id": "2026-05-13T22:51:01.226Z",
+    "episodes": 180
   },
   {
     "title": "Доктор Дулиттл",
@@ -34503,7 +34796,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-05-13T22:51:01.269Z"
+    "id": "2026-05-13T22:51:01.269Z",
+    "episodes": 13
   },
   {
     "title": "Мой маленький пони: Девочки из Эквестрии – Игры дружбы",
@@ -34544,7 +34838,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-13T22:51:01.282Z"
+    "id": "2026-05-13T22:51:01.282Z",
+    "episodes": 60
   },
   {
     "title": "Доктор Дулиттл 4",
@@ -34735,7 +35030,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-13T22:51:01.344Z"
+    "id": "2026-05-13T22:51:01.344Z",
+    "episodes": 30
   },
   {
     "title": "Мой маленький пони: Девочки из Эквестрии – Весенние каникулы",
@@ -34903,7 +35199,8 @@
     "durationMinutes": 22,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-13T22:51:01.422Z"
+    "id": "2026-05-13T22:51:01.422Z",
+    "episodes": 8
   },
   {
     "title": "Истории моего маленького пони",
@@ -36329,7 +36626,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-16T01:16:04.728Z"
+    "id": "2026-05-16T01:16:04.728Z",
+    "episodes": 144
   },
   {
     "title": "Человек-паук: Через вселенные",
@@ -36420,7 +36718,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-16T01:16:04.764Z"
+    "id": "2026-05-16T01:16:04.764Z",
+    "episodes": 8
   },
   {
     "title": "Крестный отец: Трилогия 1901-1980",
@@ -36551,7 +36850,8 @@
     "durationMinutes": 50,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-16T01:16:04.812Z"
+    "id": "2026-05-16T01:16:04.812Z",
+    "episodes": 6
   },
   {
     "title": "Город мужчин / Город людей",
@@ -36572,7 +36872,8 @@
     "durationMinutes": 22,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-16T01:16:04.817Z"
+    "id": "2026-05-16T01:16:04.817Z",
+    "episodes": 1
   },
   {
     "title": "Сердца тьмы: Апокалипсис кинематографиста",
@@ -36699,7 +37000,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.030Z"
+    "id": "2026-05-29T18:55:38.030Z",
+    "episodes": 12
   },
   {
     "title": "Токсичный мститель 4: Гражданин Токси",
@@ -36745,7 +37047,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 6,
-    "id": "2026-05-29T18:55:38.042Z"
+    "id": "2026-05-29T18:55:38.042Z",
+    "episodes": 16
   },
   {
     "title": "Проект «Адам»",
@@ -36873,7 +37176,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.090Z"
+    "id": "2026-05-29T18:55:38.090Z",
+    "episodes": 27
   },
   {
     "title": "Берсерк: Золотой век. Памятное издание",
@@ -36935,7 +37239,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.116Z"
+    "id": "2026-05-29T18:55:38.116Z",
+    "episodes": 24
   },
   {
     "title": "Человек из Флориды",
@@ -36959,7 +37264,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.124Z"
+    "id": "2026-05-29T18:55:38.124Z",
+    "episodes": 7
   },
   {
     "title": "Захваченный рейс",
@@ -36980,7 +37286,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.133Z"
+    "id": "2026-05-29T18:55:38.133Z",
+    "episodes": 15
   },
   {
     "title": "Мошенники",
@@ -37000,7 +37307,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.144Z"
+    "id": "2026-05-29T18:55:38.144Z",
+    "episodes": 23
   },
   {
     "title": "Нежеланно бессмертный авантюрист [ТВ-1]",
@@ -37113,7 +37421,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.183Z"
+    "id": "2026-05-29T18:55:38.183Z",
+    "episodes": 24
   },
   {
     "title": "Angry Birds: Истории рогатки",
@@ -37196,7 +37505,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.215Z"
+    "id": "2026-05-29T18:55:38.215Z",
+    "episodes": 7
   },
   {
     "title": "Универ. 13 лет спустя",
@@ -37216,7 +37526,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.223Z"
+    "id": "2026-05-29T18:55:38.223Z",
+    "episodes": 12
   },
   {
     "title": "Приключения Паддингтона 3",
@@ -37260,7 +37571,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.241Z"
+    "id": "2026-05-29T18:55:38.241Z",
+    "episodes": 9
   },
   {
     "title": "Нулевой день",
@@ -37281,7 +37593,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.252Z"
+    "id": "2026-05-29T18:55:38.252Z",
+    "episodes": 6
   },
   {
     "title": "Домовенок Кузя",
@@ -37322,7 +37635,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.272Z"
+    "id": "2026-05-29T18:55:38.272Z",
+    "episodes": 40
   },
   {
     "title": "Истина и измена",
@@ -37351,7 +37665,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2014/11/8/kfcb30714aa85is21l23a.jpg",
     "rating": 8.5,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2010,
     "trailerUrl": "https://www.youtube.com/embed/tnV2ThYlNeo?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/2288-discovery-vo-vselennuyu-so-stivenom-hokingom-2010.html",
@@ -37359,7 +37675,8 @@
     "durationMinutes": 43,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-29T18:55:38.288Z"
+    "id": "2026-05-29T18:55:38.288Z",
+    "episodes": 3
   },
   {
     "title": "Нейровася",
@@ -37379,7 +37696,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.296Z"
+    "id": "2026-05-29T18:55:38.296Z",
+    "episodes": 20
   },
   {
     "title": "раша Гудбай",
@@ -37619,7 +37937,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2025/5/25/k0fd6ece98bbetw84l83x.jpg",
     "rating": 8.6,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2010,
     "trailerUrl": "https://www.youtube.com/embed/CoJ2udjytSM?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/1941-discovery-skvoz-prostranstvo-i-vremya-s-morganom-frimenom-2010.html",
@@ -37628,7 +37948,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-05-29T18:55:38.394Z"
+    "id": "2026-05-29T18:55:38.394Z",
+    "episodes": 62
   },
   {
     "title": "Злые птички",
@@ -37658,7 +37979,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2023/3/7/o8bae98927080sh85t80q.jpg",
     "rating": 8.9,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2010,
     "trailerUrl": "https://www.youtube.com/embed/egW86B9182A?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/2111-discovery-kak-ustroena-vselennaya-2010.html",
@@ -37667,7 +37990,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-05-29T18:55:38.413Z"
+    "id": "2026-05-29T18:55:38.413Z",
+    "episodes": 11
   },
   {
     "title": "Универ. Новая общага",
@@ -37687,7 +38011,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.427Z"
+    "id": "2026-05-29T18:55:38.427Z",
+    "episodes": 300
   },
   {
     "title": "Охотники за привидениями 2",
@@ -37731,9 +38056,11 @@
     "galleryUrls": [],
     "durationMinutes": 92,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.449Z"
+    "id": "2026-05-29T18:55:38.449Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Война миров",
@@ -37796,9 +38123,11 @@
     "galleryUrls": [],
     "durationMinutes": 77,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.507Z"
+    "id": "2026-05-29T18:55:38.507Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Superнянь",
@@ -37905,7 +38234,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 16,
-    "id": "2026-05-29T18:55:38.556Z"
+    "id": "2026-05-29T18:55:38.556Z",
+    "episodes": 388
   },
   {
     "title": "Истории свинок",
@@ -37967,9 +38297,11 @@
     "galleryUrls": [],
     "durationMinutes": 108,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.582Z"
+    "id": "2026-05-29T18:55:38.582Z",
+    "episodes": 1,
+    "isSerial": true
   },
   {
     "title": "Берсерк [ТВ-1]",
@@ -37990,9 +38322,11 @@
     "galleryUrls": [],
     "durationMinutes": 23,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.591Z"
+    "id": "2026-05-29T18:55:38.591Z",
+    "episodes": 25,
+    "isSerial": true
   },
   {
     "title": "Идеальные незнакомцы",
@@ -38033,7 +38367,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.614Z"
+    "id": "2026-05-29T18:55:38.614Z",
+    "episodes": 255
   },
   {
     "title": "Angry Birds в кино",
@@ -38115,7 +38450,8 @@
     "durationMinutes": 24,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-29T18:55:38.643Z"
+    "id": "2026-05-29T18:55:38.643Z",
+    "episodes": 16
   },
   {
     "title": "Discovery: Северная Америка",
@@ -38124,7 +38460,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2016/5/19/o95b637bfb10eej45j59a.jpg",
     "rating": 8.5,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2013,
     "trailerUrl": "https://www.youtube.com/embed/e7hH8llvEv4?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/14262-discovery-severnaya-amerika-2013.html",
@@ -38132,7 +38470,8 @@
     "durationMinutes": 60,
     "isFavorite": false,
     "type": "SERIES",
-    "id": "2026-05-29T18:55:38.649Z"
+    "id": "2026-05-29T18:55:38.649Z",
+    "episodes": 7
   },
   {
     "title": "BBC: Европа: История континента",
@@ -38141,7 +38480,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2016/5/19/jb9cb5719b189cl48e94k.jpg",
     "rating": 7.7,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2005,
     "trailerUrl": "https://www.youtube.com/embed/_xsbSva4jRk?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/14265-bbc-evropa-istoriya-kontinenta-2005.html",
@@ -38150,7 +38491,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 0,
-    "id": "2026-05-29T18:55:38.659Z"
+    "id": "2026-05-29T18:55:38.659Z",
+    "episodes": 4
   },
   {
     "title": "Почему он?",
@@ -38266,7 +38608,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2016/11/14/u42a7a5efe262yi26d88r.jpg",
     "rating": 8.1,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2012,
     "trailerUrl": "https://www.youtube.com/embed/AB9HVLLAO4U?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/22417-dikaya-priroda-ameriki-2012.html",
@@ -38275,7 +38619,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-05-29T18:55:38.706Z"
+    "id": "2026-05-29T18:55:38.706Z",
+    "episodes": 4
   },
   {
     "title": "Берсерк [ТВ-3]",
@@ -38392,7 +38737,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2023/6/15/w44bcadac35f5ru88k63q.jpg",
     "rating": 9.2,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2019,
     "trailerUrl": "https://www.youtube.com/embed/aETNYyrqNYE?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/30487-nasha-planeta-2019.html",
@@ -38401,7 +38748,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 6,
-    "id": "2026-05-29T18:55:38.760Z"
+    "id": "2026-05-29T18:55:38.760Z",
+    "episodes": 12
   },
   {
     "title": "Маугли дикой планеты",
@@ -38432,7 +38780,9 @@
     "posterUrl": "https://static.hdrezka.ac/i/2019/7/20/pdcc7b9772970cj45r25g.jpg",
     "rating": 9,
     "status": "NEW",
-    "genres": [],
+    "genres": [
+      "Приключения"
+    ],
     "year": 2019,
     "trailerUrl": "https://www.youtube.com/embed/b-zfnudBDDQ?iv_load_policy=3&modestbranding=1&hd=1&rel=0&showinfo=0&autoplay=1",
     "mediaUrl": "https://rezka.ag/series/documentary/31369-planety-2019.html",
@@ -38441,7 +38791,8 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 12,
-    "id": "2026-05-29T18:55:38.780Z"
+    "id": "2026-05-29T18:55:38.780Z",
+    "episodes": 5
   },
   {
     "title": "Angry Birds 2 в кино",
@@ -38597,6 +38948,7 @@
     "isFavorite": false,
     "type": "SERIES",
     "ageRating": 18,
-    "id": "2026-05-29T18:55:38.839Z"
+    "id": "2026-05-29T18:55:38.839Z",
+    "episodes": 8
   }
 ]
