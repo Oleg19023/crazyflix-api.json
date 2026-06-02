@@ -15448,10 +15448,11 @@
     "galleryUrls": [],
     "durationMinutes": 22,
     "isFavorite": false,
-    "type": "SERIES",
+    "type": "ANIME",
     "ageRating": 12,
     "id": "2026-01-30T14:51:48.757Z",
-    "episodes": 1228
+    "episodes": 1228,
+    "isSerial": true
   },
   {
     "title": "Покемон: Мьюту против Мью / Покемон: Мьюту наносит ответный удар (фильм 1)",
