@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Ваша рабочая строка подключения к MongoDB Atlas
-const uri = "mongodb+srv://olegmordan621_db_user:EfI1CPDf3LzgiAOV@crazyflix.diyjq4r.mongodb.net/";
+const uri = "mongodb+srv://olegmordan621_db_user:EfI1CPDf3LzgiAOV@crazyflix.diyjq4r.mongodb.net/?tlsAllowInvalidCertificates=true";
 const client = new MongoClient(uri);
 
 // Разрешаем вашему сайту на GitHub Pages делать запросы (CORS)
